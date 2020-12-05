@@ -1,2 +1,2 @@
 # Test-Oyunu-
-Test oyunu uygulaması
+Algoritma ve programlama ders projesi
