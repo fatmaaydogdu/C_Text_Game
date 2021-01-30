@@ -1,2 +1,3 @@
-# Test-Oyunu-
-Algoritma ve programlama ders projesi
+# C_Text_Game
+Algorithm and programming course project
+
